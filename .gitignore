@@ -2,6 +2,5 @@
 !.gitignore
 !src/
 !**/src/
-
 !pom.xml
 !**/pom.xml
